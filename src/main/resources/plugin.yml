@@ -1,0 +1,4 @@
+name: plugin-sample-re
+version: '${version}'
+main: plugin.pluginsamplere.Main
+api-version: '1.20'
