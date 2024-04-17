@@ -67,7 +67,7 @@ public final class Main extends JavaPlugin implements Listener {
                     fireworkMeta.addEffect(
                             FireworkEffect.builder()
                                     .withColor(color.RED)
-                                    .withColor(color.YELLOW)
+                                    .withColor(color.BLACK)
                                     .with(Type.BALL_LARGE)
                                     .withFlicker()
                                     .build());
